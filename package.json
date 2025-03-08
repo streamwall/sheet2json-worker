@@ -10,7 +10,7 @@
   "author": "Max Goodhart <c@chromakode.com>",
   "license": "MIT",
   "devDependencies": {
-    "@cloudflare/wrangler": "^1.10.2"
+    "@cloudflare/wrangler": "^1.21.0"
   },
   "dependencies": {
     "lodash.camelcase": "^4.3.0",
